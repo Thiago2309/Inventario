@@ -26,7 +26,7 @@ include "../includes/header.php";
 
                         <!-- Campo de Nombre -->
                         <div class="form-group">
-                            <label for="nombre">Nombre:</label>
+                            <label for="nombre">Apellido:</label>
                             <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Ingrese su nombre" required>
                         </div>
 
